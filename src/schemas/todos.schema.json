@@ -1,0 +1,8 @@
+{
+  "properties": {
+    "title": { "type" : "string" },
+    "done": { "type" : "boolean"},
+    "createdAt": { "type": "string", "format": "date-time" },
+    "user" : { "type" : "string" }
+  }
+}
